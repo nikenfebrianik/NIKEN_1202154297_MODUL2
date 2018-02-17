@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Osas Resto</string>
+    <string name="date_picker">date_picker</string>
+    <string name="time_picker">time_picker</string>
+    <string-array name="SpNoMeja">
+        <item>Meja 1</item>
+        <item>Meja 2</item>
+        <item>Meja 3</item>
+        <item>Meja 4</item>
+        <item>Meja 5</item>
+        <item>Meja 6</item>
+        <item>Meja 7</item>
+    </string-array>
+    <string name="title_activity_daftar_menu">DaftarMenuActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
