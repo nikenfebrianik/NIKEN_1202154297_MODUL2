@@ -11,8 +11,6 @@ public class MenuDetail extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_menu_detail);
-        //mengeset button back agar muncul di view
-        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
         //menerima value yang dikirimkan dari activity sebelumnya berupa sebuah key value
         String menu = getIntent().getStringExtra("menu");
