@@ -50,11 +50,10 @@
     </LinearLayout>
 
     <Button
-        android:id="@+id/btnmeja"
+        android:id="@+id/btn_pesan"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="25dp"
         android:text="Pilih Pesanan"
-        android:layout_gravity="center"
-        android:onClick="Pilihan"/>
+        android:layout_gravity="center" />
 </LinearLayout>

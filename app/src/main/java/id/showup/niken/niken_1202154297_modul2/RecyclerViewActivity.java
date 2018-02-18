@@ -19,12 +19,11 @@ public class RecyclerViewActivity extends AppCompatActivity {
     private ArrayList<String> Price;
     private ArrayList<Integer> Gambar;
     //Daftar Menu
-    private String[] menu = {"Nasi Goreng", "Mie Goreng Spesial", "Mie Kuah Spesial", "Sate Madura", "Mie Kuah Upnormal", "Nasi Goreng Baawang"};
+    private String[] menu = {"Ayam Goreng", "Cream Soup", "Frappe", "Gule Cumi", "Jus Jambu", "Sate Sapi"};
     //Daftar Harga
-    private String[] price = {"15.000", "10.000", "10.000", "25.000", "30.000", "25.000"};
+    private String[] price = {"15.000", "10.000", "11.000", "25.000", "11.000", "14.000"};
     //Daftar Gambar
-    private int[] image = {R.drawable.img1, R.drawable.img2, R.drawable.img3, R.drawable.img4, R.drawable.img5,
-            R.drawable.img6};
+    private int[] image = {R.drawable.img1, R.drawable.img2, R.drawable.img3, R.drawable.img4, R.drawable.img5, R.drawable.img6};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

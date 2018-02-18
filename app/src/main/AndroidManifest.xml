@@ -26,6 +26,7 @@
             android:name=".MenuDetail"
             android:label="@string/title_activity_daftar_menu"
             android:theme="@style/AppTheme.NoActionBar"></activity>
+        <activity android:name=".RecyclerViewActivity" />
     </application>
 
 </manifest>
